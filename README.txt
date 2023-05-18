@@ -1,0 +1,1 @@
+To investigate the role of aging in the regulation of ILC3 development and function, we used the young mice as control and carried out single-cell RNA sequencing  (BD Rhapsody) on gut ILC3s of young, aged and Cxxc1-deficient mice .
